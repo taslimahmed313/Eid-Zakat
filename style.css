@@ -1,0 +1,115 @@
+* {
+  margin: 0;
+}
+.first-section {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(./images/cow-awsome.png);
+  height: 70vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+.first-section h1 {
+  font-size: 45px;
+  margin-top: 12%;
+  display: inline-block;
+}
+.margin {
+  margin-left: 13%;
+  margin-top: 20px;
+}
+.btn-style {
+  padding: 10px 30px;
+  border: none;
+  background-color: orangered;
+  border-radius: 10px;
+  margin-top: 20px;
+  color: white;
+  font-size: 15px;
+}
+.video-content {
+  display: flex;
+  margin: 100px 13% 0px 13%;
+  justify-content: center;
+}
+.content {
+  color: rgb(45, 32, 32);
+  font-size: 35px;
+}
+.video-content video {
+  height: 270px;
+  width: 100%;
+}
+.video {
+  width: 100%;
+  margin: 20px;
+}
+#size {
+  margin-top: 20px;
+}
+.muslim-content {
+  display: flex;
+  margin: 100px 13% 0px 13%;
+  justify-content: space-between;
+}
+.muslim-man img {
+  height: 330px;
+  width: 330px;
+}
+.center {
+  text-align: center;
+  margin-top: 70px;
+}
+.flexiable-container {
+  display: flex;
+  margin: 0 13% 0px 13%;
+  justify-content: space-between;
+}
+.uniq-div {
+  background: rgb(245, 242, 239);
+  color: black;
+  margin: 10px;
+  padding: 20px;
+}
+.another-flex {
+  display: flex;
+  justify-content: center;
+  margin-top: 70px;
+}
+.another-flex img {
+  height: 270px;
+  width: 260px;
+  border-radius: 10px;
+  margin: 10px;
+}
+.end-section {
+  display: flex;
+  margin: 50px 10% 0px 10%;
+}
+.end-section img {
+  height: 170px;
+  width: 100%;
+  border-radius: 10px;
+}
+.end-div {
+  border: 2px solid rgb(227, 220, 220);
+  margin: 10px;
+  border-radius: 10px;
+}
+.end-div h3,
+p {
+  padding: 8px 18px;
+}
+.end-div a {
+  padding: 15px 18px 25px;
+  display: inline-block;
+  color: red;
+}
+footer {
+  background: rgb(27, 27, 29);
+  color: tomato;
+  margin-top: 80px;
+  padding: 20px;
+  text-align: center;
+}
