@@ -6,14 +6,15 @@
 .first-section {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url(./images/cow-awsome.png);
-  height: 70vh;
+  height: 500px;
   width: 100%;
   background-repeat: no-repeat;
   background-size: cover;
+  text-align: center;
 }
 .first-section h1 {
   font-size: 45px;
-  margin-top: 25%;
+  margin-top: 100px;
   display: inline-block;
 }
 .peach-of-eye {
@@ -111,6 +112,7 @@ p {
   padding: 15px 18px 25px;
   display: inline-block;
   color: red;
+  font-weight: 800;
 }
 footer {
   background: rgb(27, 27, 29);
